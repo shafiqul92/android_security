@@ -51,9 +51,7 @@ Create the venv **next to** `scripts` or **inside** it according to your prefere
 
 ---
 
-## Version control and size
 
-Pushing the **entire** repository (especially **`TOOLS/`** and large `data/` subtrees) to a generic Git host often hits size limits. Typical patterns: ship **code + small tables** in Git, ship **large binaries and tool trees** as a separate archive or object storage, or use Git LFS with a clear quota plan.
 
 ---
 
