@@ -1,4 +1,4 @@
-# Android call-graph security measurement — experiment bundle
+# Android call-graph security measurement 
 
 This repository bundles the **Python measurement pipeline**, **frozen derived tables and text views**, and **tool sources / drivers** used for static–dynamic call-graph comparison work with security-oriented tagging.
 
