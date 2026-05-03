@@ -18,7 +18,7 @@ At the top level you should see:
   - **`droidbench_source/`** — DroidBench-oriented inputs (dynamic summaries, missed-edge style artifacts where shipped).
   - **`corpus_from_graphs/`** — graph-derived text and union-style extracts.
   - **`method_views/`** — per-tag or per-tool method sets and missed lists used in tables and case studies.
-- **`TOOLS/`** — third-party and modified tool trees, plus call-graph driver scripts. This subtree is **large**; treat it as an artifact drop (separate archive, partial clone, or Git LFS) rather than something you always push in full to a small remote.
+- **`TOOLS/`** — includes the tools we have used.
 
 A **`.gitignore`** may be present when the bundle is maintained under version control.
 
